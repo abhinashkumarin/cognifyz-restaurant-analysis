@@ -1,0 +1,23 @@
+Feature,Data_Type,Missing,Unique
+Restaurant_Name_Length,int64,0,52
+Name_Word_Count,int64,0,10
+Name_Has_Number,int64,0,2
+Name_Uppercase_Ratio,float64,0,1
+Address_Length,int64,0,112
+Address_Word_Count,int64,0,19
+Has_Any_Service,int64,0,2
+Service_Count,int64,0,3
+City_Freq_Encoded,int64,0,16
+Country Code_Freq_Encoded,int64,0,11
+Cuisines_Freq_Encoded,float64,9,64
+Rating_Category,category,2148,4
+High_Rating,int64,0,2
+Location_Density,int64,0,11
+Distance_From_Center,float64,0,8705
+Price_Rating_Interaction,float64,0,108
+Cuisine_Count,float64,9,8
+Has_North_Indian,int64,0,2
+Has_Chinese,int64,0,2
+Has_Fast_Food,int64,0,2
+Has_Mughlai,int64,0,2
+Has_Italian,int64,0,2
