@@ -182,4 +182,21 @@ git push
 Copy → Save as README.md → Push → Portfolio LIVE! 🎉
 
 ## 🌟 Key Achievements
+Key Achievements – Cognifyz Restaurant Data Science Internship
+Completed a full end-to-end data science pipeline, covering data cleaning, preprocessing, feature engineering, EDA, visualization, and predictive modeling across 8 major tasks.
+
+Developed a highly accurate Random Forest regression model achieving RMSE = 0.45 and R² = 0.82, demonstrating strong predictive performance for restaurant rating prediction.
+
+Created more than 25 professional visualizations, including geospatial interactive maps, cuisine popularity charts, correlation heatmaps, and feature importance plots.
+
+Engineered over 15 advanced features (such as cuisine count, rating bins, city popularity, and cost-to-rating ratios), significantly boosting model performance.
+
+Conducted an in-depth customer preference analysis, identifying top cuisines, cities, and restaurant attributes that strongly influence ratings and customer votes.
+
+Delivered a production-ready machine learning pipeline with clean datasets, automated preprocessing scripts, and structured workflows ready for deployment or integration.
+
+Leveraged industry-standard tools such as Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, and Folium, following best practices throughout the project.
+
+Ensured high project quality through well-documented notebooks, clear explanations, and an organized repository suitable for academic submission and professional portfolios.
+
 
